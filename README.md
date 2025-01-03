@@ -1,4 +1,9 @@
-# Help-Desk-Lab
+
+![1test](https://github.com/user-attachments/assets/a828d4fd-8f7d-41ee-8b64-b5a21ea8d279)
+
+<div style="text-align: center;">
+  <h1>Help-Desk-Lab</h1>
+</div>
 Credit to Josh Madakor for helping with the set up of this lab. However I will be taking it a step further by adding a ticketing system to troubleshoot the issues my "users" are having.  This lab will be used to simulate a Help desk environment. 
 
 
