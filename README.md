@@ -42,3 +42,9 @@ Credit to Josh Madakor for helping with the set up of this lab. However I will b
 
 <div align="center"><b> It should be noted, these are the policies that I put in place for my network. For lab purposes I wont make them too complex but the most important policy right now is the lockout policy, with the max being 5 attempts. In the future we will tighten them up according to NIST SP 800-63B guidlines.</b>
 </div>
+<br/>
+
+![new password](https://github.com/user-attachments/assets/b1618301-6545-413b-bccb-30ae83bf15af)
+<div align="center"><b> Now, as a Help Desk associate we will go into Active Directory, find the user, right click their name, and reset password. This can also be done using the powershell command (Set-ADAccountPassword -Identity "username" -NewPassword (ConvertTo-SecureString "NewPassword123!" -AsPlainText -Force)). The users account is now unlocked and password is rest. I dont have the setting enabled but the next time they log in they should be prompted to create a new password. </b>
+</div>
+
