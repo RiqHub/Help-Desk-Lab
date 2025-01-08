@@ -39,3 +39,6 @@ Credit to Josh Madakor for helping with the set up of this lab. However I will b
   <img src="https://github.com/user-attachments/assets/cef4ce63-4837-4963-879c-918ea23bf015" alt="Image 1" width="500">
   <img src="https://github.com/user-attachments/assets/4cdc4a78-eabe-4d79-ac8a-dbc06cac8197" alt="Image 2" width="500">
 </p>
+
+<div align="center"><b> It should be noted, these are the policies that I put in place for my network. For lab purposes I wont make them too complex but the most important policy right now is the lockout policy, with the max being 5 attempts. In the future we will tighten them up according to NIST SP 800-63B guidlines.</b>
+</div>
