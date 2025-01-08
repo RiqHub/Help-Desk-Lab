@@ -26,3 +26,16 @@ Credit to Josh Madakor for helping with the set up of this lab. However I will b
 
 <div align="center"><b>After that, I equipped the server with the necessary features Active Directory, DHCP, and a NAT</b>
 </div>
+
+# Ticket #1 (Password Lockout)
+![closed ticket](https://github.com/user-attachments/assets/2fd81a55-0c5c-4335-bb25-ee9ab5017d90)
+
+<div align="center"><b>Aacre has submitted a ticket stating that they have been locked out of their account due to too many wrong attempts. In the image you can see the priority has been set to high since the user is unable to access their computer. I have assigned myself the ticket and written comments to state what was done to fix the problem. Now we will walk through what was done. </b>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cef4ce63-4837-4963-879c-918ea23bf015" alt="Image 1" width="500">
+  <img src="https://github.com/user-attachments/assets/4cdc4a78-eabe-4d79-ac8a-dbc06cac8197" alt="Image 2" width="500">
+</p>
