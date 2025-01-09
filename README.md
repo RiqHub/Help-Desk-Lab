@@ -24,7 +24,7 @@ Credit to Josh Madakor for helping with the set up of this lab. However I will b
 ![Configuring NAT 2](https://github.com/user-attachments/assets/8ece7ecd-64ae-47af-8688-b523434e1342)
 
 
-<div align="center"><b>After that, I equipped the server with the necessary features Active Directory, DHCP, and a NAT</b>
+<div align="center"><b>After that, I equipped the server with the necessary features Active Directory, DHCP, and RAS/NAT</b>
 </div>
 
 # Ticket #1 (Password Lockout)
