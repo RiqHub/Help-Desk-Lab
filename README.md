@@ -48,4 +48,43 @@ Credit to Josh Madakor for helping with the set up of this lab. However I will b
 ![new password](https://github.com/user-attachments/assets/b1618301-6545-413b-bccb-30ae83bf15af)
 <div align="center"><b> Now, as a Help Desk associate we will go into Active Directory, find the user, right click their name, and reset password. This can also be done using the powershell command (Set-ADAccountPassword -Identity "username" -NewPassword (ConvertTo-SecureString "NewPassword123!" -AsPlainText -Force)). The users account is now unlocked and password is rest. I dont have the setting enabled but the next time they log in they should be prompted to create a new password. </b>
 </div>
+<br/>
+<br/>
+
+# Ticket #2 (Creating Oranizations,Network shares, and Permissions)
+
+![Creating OUS](https://github.com/user-attachments/assets/e0dbd29e-eac9-48f1-8938-b26669f615e9)
+
+<div align="center"><b> First, I created 4 Organizational units (Sales, Finaince, HR, and IT). </b>
+<br/>
+
+![Security Groups](https://github.com/user-attachments/assets/b374377d-a6f2-48b5-8771-e156ac7416e1)
+
+<div align="center"><b>Then for each OU a security group is created </b>
+<br/>
+
+![Add users to sec groups](https://github.com/user-attachments/assets/e7cd9011-2259-4302-811d-7342e1fda1c2)
+
+<div align="center"><b>Once each group is created I selected users for each department.  </b>
+<br/>
+
+![Create share](https://github.com/user-attachments/assets/b2b37d8b-bbf2-47fb-ad93-e129a96655f1)
+
+<div align="center"><b>Next, I went into the server manager > Shared folders > Create new share for each department.  </b>
+<br/>
+
+![Set permissions](https://github.com/user-attachments/assets/b42bec9f-e29c-4d99-a8bf-71e64d51f90a)
+
+<div align="center"><b>As requested, only user from designated departments can access their respective folders.  </b>
+<br/>
+
+![access denied](https://github.com/user-attachments/assets/d75cb499-a6f1-43ce-8d08-28647620b7cf)
+
+<div align="center"><b>Finally, I went into aacre account to test these permissions and as you can see I am not able to get into the IT share since Aacre is a SALES associate.  </b>
+<br/>
+
+
+
+
+
 
