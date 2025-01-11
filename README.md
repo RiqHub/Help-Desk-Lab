@@ -52,6 +52,11 @@ Credit to Josh Madakor for helping with the set up of this lab. However I will b
 <br/>
 
 # Ticket #2 (Creating Oranizations,Network shares, and Permissions)
+![Screenshot 2025-01-11 064405](https://github.com/user-attachments/assets/fe4057f4-cf5c-4a0e-b874-cdd05a6b442c)
+<br/>
+<div align="center"><b> For this ticket the CEO is asking for users to be separated in departments and for each department to have thier own folder that no other department can get into. This is how well do it.  </b>
+<br/>
+
 
 ![Creating OUS](https://github.com/user-attachments/assets/e0dbd29e-eac9-48f1-8938-b26669f615e9)
 <br/>
