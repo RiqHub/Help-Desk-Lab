@@ -12,7 +12,7 @@ I will be adding a ticketing system to troubleshoot the issues my "users" are ha
 
 ![Rename Internet adapters ](https://github.com/user-attachments/assets/c658cf31-1434-4f68-866e-4b9dd00241a1)
 
-<div align="center"><b>Once I got the Windows server set up in Orical VB with 2 network adapters I renamed them to differentiate between my home internet and the internal internet that the Windows 10 machine would be pulling from.</b>
+<div align="center"><b>Once I got the Windows server set up in Oracle VB with 2 network adapters I renamed them to differentiate between my home internet and the internal internet that the Windows 10 machine would be pulling from.</b>
 </div>
 
 ![Assigning IP for internat network ](https://github.com/user-attachments/assets/89fbd4dd-3460-4543-ae6d-13d606f9749d)
@@ -25,7 +25,7 @@ I will be adding a ticketing system to troubleshoot the issues my "users" are ha
 ![Configuring NAT 2](https://github.com/user-attachments/assets/8ece7ecd-64ae-47af-8688-b523434e1342)
 
 
-<div align="center"><b>After that, I equipped the server with the necessary features Active Directory, DHCP, and RAS/NAT</b>
+<div align="center"><b>After that, I equipped the server with the necessary services Active Directory, DHCP, and RAS/NAT</b>
 </div>
 
 # Ticket #1 (Password Lockout)
